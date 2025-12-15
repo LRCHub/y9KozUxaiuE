@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "どんなときも。",
+  "base_artist": "Noriyuki Makihara",
+  "createdAt": "2025-12-15T14:41:05.315722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どんなときも。(オリジナル・ヴァージョン)",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/01_どんなときも。(オリジナル・ヴァージョン)_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "どんなときも。",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/02_どんなときも。_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "どんなときも。",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/03_どんなときも。_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "どんなときも。",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/04_どんなときも。_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "どんなときも。 (2012 Remaster)",
+      "artist": "槇原敬之",
+      "has_synced": false,
+      "path": "select/05_どんなときも。_(2012_Remaster)_槇原敬之.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "どんなときも。(オリジナル・ヴァージョン)",
+      "artist": "槇原敬之",
+      "has_synced": false,
+      "path": "select/06_どんなときも。(オリジナル・ヴァージョン)_槇原敬之.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "どんなときも。",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/07_どんなときも。_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "どんなときも。'07 [槇原敬之]",
+      "artist": "槇原敬之",
+      "has_synced": false,
+      "path": "select/08_どんなときも。'07_[槇原敬之]_槇原敬之.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "どんなときも。 - 2012 Remaster",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/09_どんなときも。_-_2012_Remaster_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "どんなときも。 - Donnatokimo",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/10_どんなときも。_-_Donnatokimo_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "どんなときも。",
+      "artist": "キマグレン",
+      "has_synced": true,
+      "path": "select/11_どんなときも。_キマグレン.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "どんなときも。",
+      "artist": "杏",
+      "has_synced": false,
+      "path": "select/12_どんなときも。_杏.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "どんなときも。",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/13_どんなときも。_槇原敬之.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どんなときも。",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_01_どんなときも。_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "どんなときも。",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_02_どんなときも。_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "どんなときも。",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_03_どんなときも。_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "どんなときも。",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_04_どんなときも。_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "どんなときも。",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_05_どんなときも。_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "どんなときも。",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_06_どんなときも。_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "どんなときも。",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_07_どんなときも。_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "どんなときも。",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_08_どんなときも。_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "どんなときも。",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_09_どんなときも。_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "どんなときも。",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_10_どんなときも。_槇原_敬之.txt"
+    }
+  ]
+}
